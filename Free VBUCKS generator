@@ -1,0 +1,6 @@
+Do
+msg1 = msgbox("Probeer de box maar eens te sluiten!",o,"Free V-Bucks gen")
+msg2 = msgbox("Probeer opnieuw dan!",o,"Free V-Bucks gen")
+msg3 = msgbox("Probeer opnieuw dan!",o,"Free V-Bucks gen")
+msg4 = msgbox("HAHA, je kan de box lekker niet sluiten!",o,"Free V-Bucks gen")
+Loop
